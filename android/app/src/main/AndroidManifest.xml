@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.nubanck_dark_figma">
+    package="com.example.nubank_dark_figma">
    <application
         android:label="Nubank Dark"
         android:name="${applicationName}"
