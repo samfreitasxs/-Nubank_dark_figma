@@ -13,7 +13,7 @@ O Nubank App - Flutter é um projeto pessoal para desenvolvimento da UI criada p
 <p align="center">
     <a href="https://www.linkedin.com/in/samuelfreitass/">LinkedIn Samuel Freitas</a>
 
-Tes
+
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
@@ -35,6 +35,7 @@ Tes
 * Future.delayed
 
 ## Próximos passos:
+    
 * Implementar animação na *Splash Screen*
 
 For help getting started with Flutter, view our
